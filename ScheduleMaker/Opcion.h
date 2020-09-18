@@ -13,6 +13,8 @@ public:
 	std::string mId;
 	std::string mProf;
 
+	int** Days = new int* [mDias];
+
 
 };
 

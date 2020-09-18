@@ -9,6 +9,5 @@ public:
 	~Materia();
 
 	int mDias;
-	int** Days = new int* [mDias];
 
 };
